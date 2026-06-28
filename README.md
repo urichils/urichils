@@ -26,7 +26,7 @@ I'm a passionate web developer and data analyst with a penchant of making silly 
   </a>
 </p>
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -36,7 +36,7 @@ I'm a passionate web developer and data analyst with a penchant of making silly 
 
 </div>
 
-### Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <picture>
@@ -46,7 +46,7 @@ I'm a passionate web developer and data analyst with a penchant of making silly 
 </picture>
 </div>
 
-### Tech Stack
+## Tech Stack
 
 <p align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
