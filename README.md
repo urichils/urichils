@@ -83,6 +83,6 @@ I'm a passionate web developer and data analyst with a penchant of making silly 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=urichils&color=3b266e&style=flat-square&label=Profile+Views">
-
+<br>
 <img src="/resources/cat.gif" width= "200" height="100">
 </p>
