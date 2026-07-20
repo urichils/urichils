@@ -32,6 +32,8 @@ I'm a passionate web developer and data analyst with a penchant of making silly 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/urichils?cardType=level&theme=tokyonight&fontFamily=Space%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=urichils&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ## Contribution Snake
