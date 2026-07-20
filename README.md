@@ -30,9 +30,7 @@ I'm a passionate web developer and data analyst with a penchant of making silly 
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=urichils&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/urichils?cardType=level&theme=tokyonight&fontFamily=Space%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
