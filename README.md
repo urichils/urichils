@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=CDC0F7&center=true&width=435&lines=(%E2%81%A0%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89+.+%DD%81%E2%82%8A+%E2%8A%B9+.+%E2%9C%A7" alt="Typing SVG"/>
 <h1/>
 
-## Hi, I'm Gopika!
+## Hi!
 
 I'm a passionate web developer and data analyst with a penchant of making silly things here and there ♡
 
