@@ -30,7 +30,7 @@ I'm a passionate web developer and data analyst with a penchant of making silly 
 
 <div align="center">
 
-![urichils's Streak](https://github-readme-streak-stats.herokuapp.com/?user=urichils&theme=tokyonight&hide_border=true)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=urichils&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
